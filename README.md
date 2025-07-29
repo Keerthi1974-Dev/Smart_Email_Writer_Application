@@ -41,9 +41,12 @@ A full-stack intelligent email assistant that helps users generate professional,
 > 📷 _Screenshot of Smart Email Writer in Gmail interface, with the AI reply shown near the Send button._
 
 
-![Smart Email Writer Screenshot](<img width="1906" height="860" alt="Screenshot 2025-07-21 213147" src="https://github.com/user-attachments/assets/23a7263a-6b29-4cb6-b3aa-c48678c09129" />
-)
-![Smart Email Writer Screenshot](<img width="660" height="619" alt="Screenshot 2025-07-21 212024" src="https://github.com/user-attachments/assets/f21dec22-3b36-42f0-b06d-1a099157f2c5" />
+
+
+
+
+![Smart Email Writer Screenshot](<img width="660" height="619" alt="Screenshot 2025-07-21 212024" src="https://github.com/user-attachments/assets/9023e599-e6c5-49b6-9aa9-9304052a943a" />
+
 )
 
 ---
