@@ -30,6 +30,8 @@ The backend runs on **localhost:8081** and serves both the React app, plain HTML
 - **Extension**: Chrome Extension  
 
 ---
+<img width="1906" height="860" alt="Image" src="https://github.com/user-attachments/assets/c20bcfab-e55b-4de1-9266-db4fea27c1af" />
+
 
 
 
